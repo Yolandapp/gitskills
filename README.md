@@ -13,3 +13,5 @@ commit resolved
 
 today is 20180109
 today is 2018/01/09
+
+issue fixed on issue-101 branch
